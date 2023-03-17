@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Day-02-30-TemperatureController/static/css/main.61bfd4b6.css",
+    "main.js": "/Day-02-30-TemperatureController/static/js/main.07c0a4b5.js",
+    "index.html": "/Day-02-30-TemperatureController/index.html",
+    "main.61bfd4b6.css.map": "/Day-02-30-TemperatureController/static/css/main.61bfd4b6.css.map",
+    "main.07c0a4b5.js.map": "/Day-02-30-TemperatureController/static/js/main.07c0a4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61bfd4b6.css",
+    "static/js/main.07c0a4b5.js"
+  ]
+}
